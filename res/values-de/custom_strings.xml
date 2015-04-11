@@ -209,7 +209,7 @@
     <string name="recents_clear_all_location_top_center">Oben zentriert</string>
     <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
     <string name="recents_clear_all_location_bottom_left">Unten links</string>
-    <string name="recents_clear_all_location_bottom_center">unten zentriert</string>
+    <string name="recents_clear_all_location_bottom_center">Unten zentriert</string>
     <string name="recents_searchbar_title">Suchleiste</string>
     <string name="recents_clear_all_dismiss_all_title">Alle Anwendungen beenden</string>
     <string name="recents_clear_all_dismiss_all_summary">Zuletzt verwendete Anwendung ebenfalls beenden</string>
